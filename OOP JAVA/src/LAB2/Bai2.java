@@ -18,6 +18,6 @@ public class Bai2 {
             if (X<0){
                 System.out.println("X khong phai so chan le");
             }
-        }
+    }
 }
 
